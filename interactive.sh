@@ -1,1 +1,1 @@
-PATH_add "$mod_rg_root/prebuilt/linux_x86_64"
+PATH_add "$mod_rg_root/.local/bin"
